@@ -1,0 +1,13 @@
+.content-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.card-content {
+    padding: 10px;
+    width: 18rem;
+    margin-left: 3%;
+    margin-top: 3%;
+}
